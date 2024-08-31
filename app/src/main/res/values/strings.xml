@@ -1,0 +1,604 @@
+<resources>
+    <string name="app_name">English Poetry</string>
+
+    <string name="inter_ad">418466868778401_418582362100185</string>
+    <string name="banner_ad">418466868778401_418467232111698</string>
+
+
+<!-- fb test ads-->
+<!--        <string name="inter_ad">VID_HD_16_9_46S_APP_INSTALL#YOUR_PLACEMENT_ID</string>-->
+<!--        <string name="banner_ad">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>-->
+
+
+
+
+    <string name="sometimes">
+            Sometimes We Wish\n\n
+            To Be Care Free\n\n
+            Like An Innocent Child\n\n
+            Without A Single Worry\n\n
+            The Tension In Life\n\n
+            To Dissolve Away\n\n
+            The Race To Gain Wealth\n\n
+            We Have To Follow Every Day\n\n
+            Seems To Be Just Meaningless\n\n
+            Sometimes We Want Ourselves\n\n
+            To Be Emotionless And Feeling Free\n\n
+            So What Is Said Or Done To Us\n\n
+            Remain Immune To All Around Us.\n\n\n</string>
+
+
+        <string name="world">
+
+    You were made for the world\n\n
+    You were born,\n\n
+    to change the world\n\n
+    You were given eyes,\n\n
+    to see the world\n\n
+    You were blessed by legs,\n\n
+    to explore the world\n\n
+    Donate yourself to the world\n\n
+    world will be yours\n\n
+    Success will be yours\n\n
+    History will be yours\n\n\n
+        </string>
+
+
+        <string name="theenglishtecher">
+
+
+    How lucky we were to start our day,\n\n
+    With laughs, love, and a lot of grace,\n\n
+    She is modest, wise, honest, And brave,\n\n
+    She will cheer you up when you just need a break\n\n\n
+
+    Even when you have a bad day,\n\n
+    She will pick you up and slap your face,\n\n
+    Remind you of all the good things ahead,\n\n
+    That your life is perfect in every aspect\n\n\n
+
+    Her happiness is contagious,\n\n
+    Her charisma is blinding,\n\n
+    She is the best at advising\n\n\n
+
+    No matter how much I struggled within,\n\n
+    She taught me to keep on going,\n\n
+    That life will always be this way,\n\n
+    So you should just smile everyday\n\n\n
+
+    With her we learnt,\n\n
+    Like books, memories can not be burnt,\n\n
+    You will not find a scaffold for them,\n\n
+    So, it is better to learn to deal with them\n\n\n
+
+    I will let you in on a secret to know,\n\n
+    If you stay with her you will not be bored,\n\n
+    Mess with her and you will not be cured,\n\n
+    Together we have had so much fun,\n\n
+    If you insult someone, get ready to run\n\n\n
+
+    Now when we grow old (but not ill of course),\n\n
+    We can still look back and feel you close,\n\n
+    And remember all those inside jokes,\n\n
+    with Chips, heroes, and the modern prose\n\n\n
+
+    I have learnt to be humble,\n\n
+    For in a universe so humongous,\n\n
+    That could fit billions of stars,\n\n
+    We are part of nothing but a single dot,\n\n\n
+
+    She is got a lot to give,\n\n
+    She is the teacher who inspired me to live\n\n\n
+
+        </string>
+
+
+        <string name="deeds">
+            These people we try to please,\n\n
+    These grades we try to achieve,\n\n
+    With those dreams we sleep.\n\n
+    Trying so hard to believe,\n\n
+    in the heroes we want to be.\n\n\n
+
+    These things will never satisfy you,\n\n
+    No matter how hard you try,\n\n
+    It will all leave.\n\n
+    Nothing good lasts forever.\n\n
+    Is not that what you believe?\n\n\n
+
+    What makes you happy,\n\n
+    Could it be the clapping?\n\n
+    Could it be the cheers?\n\n
+    Could it be the whooting?\n\n
+    Or the compliments you hear?\n\n\n
+
+    Will all those in the grave,\n\n
+    save you from your fate?\n\n
+    This desire to be successful,\n\n
+    that you hold on to for so long,\n\n
+    will it be there when this world is gone?\n\n\n
+
+    Patience.\n\n
+    Nothing matters my dear,\n\n
+    So do not waste your precious tears,\n\n
+    for the ending that you fear.\n\n\n
+
+    Nothing matters but your deeds,\n\n
+    That is what you should believe.\n\n\n
+
+        </string>
+
+
+        <string name="peace">
+
+    Give peace a chance\n\n
+    Give sanity a glance\n\n
+    Many will try to plea\n\n
+    No one will stare in glee\n\n\n
+
+    Give peace a chance\n\n
+    Give sanity a glance\n\n
+    Many will fight their fears\n\n
+    No one will refuse the tears\n\n\n
+
+    Peace should be rejoiced\n\n
+    Hate should be denounced\n\n
+    Peace should be enjoyed\n\n
+    Sanity should be announced\n\n\n
+
+    Give peace a chance\n\n
+    Give sanity a glance\n\n
+    Walls are meant for safety\n\n
+    Choices can not be so hasty\n\n\n
+
+    Give peace a chance\n\n
+    Give sanity a glance\n\n
+    Wise words enact as gold\n\n
+    Spirituality is the only mode\n\n\n
+
+        </string>
+
+
+        <string name="mydearwoman">
+
+    Oh ,Dear woman\n\n
+    You are precious\n\n
+    More than the water,\n\n\n
+
+    Your are younger\n\n
+    More than the years\n\n\n
+
+    You are beautiful\n\n
+    More than the models,\n\n\n
+
+    Your are brighter\n\n
+    More than the Stars\n\n\n
+
+    You are stronger\n\n
+    More than the iron\n\n\n
+
+    It is not your colour,\n\n
+    Your skin, your complection\n\n
+    Which makes you beautiful\n\n
+    But your compassion and\n\n
+    Gratitude with which you\n\n
+    Deal with the world .\n\n\n
+
+    It is not the dressing\n\n
+    Not the jewels\n\n
+    Not the diamonds\n\n
+    Which makes you\n\n\n
+    Powerful\n\n
+    But your perseverance\n\n
+    With which you tackle\n\n
+    The situations of life ,\n\n\n
+
+    Your are more than jewels\n\n
+    You are more than complections\n\n
+    Your are much beautiful\n\n
+    With all imperfections\n\n
+    You do not need to be perfect\n\n
+    You are Okay,\n\n
+    The way you are.\n\n\n
+
+    And the people who finds\n\n
+    You in skin, in dresses\n\n
+    In jewels , In perfection\n\n
+    Are not the true lovers\n\n
+    But the disturbance of\n\n
+    Your life ,\n\n
+    Who are continually\n\n
+    Creating mess in\n\n
+    Your life.\n\n\n
+
+    Your smile is more than\n\n
+    The brightness of moon\n\n
+    You are more colourful\n\n
+    Than the flowers of Garden\n\n\n
+
+    This World is nothing\n\n
+    Without you\n\n
+    You are more than\n\n
+    The life.\n\n
+    You are more than Diva\n\n\n
+
+        </string>
+
+
+        <string name="thebeautyoflife">
+    "The beauty of life,\n\n
+    lies in the ponds and streams,\n\n
+    that you walk by while you day dream.\n\n
+    It is in the chirping of every bird,\n\n
+    in the clouds that form above,\n\n
+    in the rain that cleanses the heart,\n\n
+    and the people who make you laugh\n\n\n
+
+    It is in the rain, the thunder, and the lightning bolt\n\n
+    in the warmth of the Sun, and the winter cold\n\n
+    in the darkness of the night, the howling of the wind\n\n
+    in the dancing daffodils and the river is steady flow\n\n
+    and the people who smile at you\n\n
+    when you learn to let go\n\n\n
+
+    It is in the trees that stand so tall,\n\n
+    in the childish spirit that lightens the heart,\n\n
+    in the songs our mothers sing,\n\n
+    and the nostalgia memories bring\n\n\n
+
+    It is in the gentle breeze and the starry sky,\n\n
+    in the loud extroverts and the introverts who are shy,\n\n
+    in the tears our fathers hide,\n\n
+    And the struggle before every goodbye\n\n\n"
+
+        </string>
+
+
+        <string name="inmylife">
+
+    The dash of your affection instructed me to fly\n\n
+    You shared the torment and tears in my eye \n\n
+    The tune of adoration and joy that I sing \n\n
+    Is the inclination in my life consistently you bring\n\n\n
+
+        </string>
+
+
+        <string name="ifeeleachtime">
+
+            Like the satisfying shade of a tree in summer\n\n
+    Like the satisfying warmth of sun in winter\n\n
+    Like the sweet scent of blooms in garden\n\n
+    Like the excellent butterflies in spring\n\n
+    This is the way I feel each time\n\n
+    At whatever point I consider you and me\n\n\n
+
+
+        </string>
+
+
+        <string name="mydaughter">
+
+    My sweetheart, my dear\n\n
+    The affection my life\n\n
+    I just need you to know\n\n
+    That when I am battling\n\n
+    Or on the other hand managing difficulty\n\n
+    To you is the place I generally go\n\n
+    At the point when inconvenience is approaching\n\n
+    At the point when issues move close\n\n
+    Simply realize that you will generally be\n\n
+    The person who I swing to\n\n
+    The person who I call for\n\n
+    The one I pull nearest to me\n\n\n
+
+        </string>
+
+
+        <string name="areuokay">
+
+            I wanted to take care of you\n\n
+    but you were not permitting\n\n
+    I searched every nook and hook\n\n
+    but you were always tricking\n\n
+    What phrases you selected\n\n
+    but it was just gimmicking\n\n
+    I begged your pardon\n\n
+    but you were not forgiving\n\n
+    I looked for you far and wide\n\n
+    not finding you, panicking\n\n
+    I ask; Are you okay?\n\n\n
+
+        </string>
+
+
+        <string name="feeling">
+
+            Wishing to move one way\n\n
+    Moving the opposite\n\n
+    Living another life\n\n
+    Is not it what I wanted\n\n
+    But somehow\n\n
+    In the midst of all\n\n
+    I lost my path\n\n
+    Wanting to live a lil\n\n
+    Play around\n\n
+    Have fun\n\n
+    That is all I wished\n\n
+    But somehow\n\n
+    In the midst of all\n\n
+    I lost my path\n\n
+    This life\n\n
+    So strange\n\n
+    Made complicated\n\n
+    Or simplified\n\n
+    But somehow\n\n
+    In the midst of all\n\n
+    I lost my path\n\n\n
+
+        </string>
+
+
+        <string name="imnomorehere">
+
+
+    I was always there\n\n
+    Waited for so long\n\n
+    Now I am gone\n\n
+    I am no more here\n\n
+
+    If you ever came\n\n
+    I will not be there\n\n
+    You will see the place\n\n
+    It will be the same\n\n
+
+    With its hanging bowers\n\n
+    The grass may be green\n\n
+    And the trees that tower\n\n
+    The house will stare\n\n
+    With the rooms all bare\n\n
+
+    While walking on the pave\n\n
+    You will crunch some dead leaves\n\n
+    You may think you heard\n\n
+    Someone scream\n\n
+
+    You will clutch your heart\n\n
+    You may depart\n\n
+    But I will not be there\n\n
+    I am gone for good\n\n
+
+    Now it is me\n\n
+    Who is lost forever!\n\n\n
+
+
+        </string>
+
+
+        <string name="whenever">
+
+    I can not hold back my tears\n\n
+    Whenever I think of you\n\n
+
+    I know you will not miss me ever\n\n
+    Whenever I think of you\n\n
+
+    I feel I lost you for good\n\n
+    Whenever I think of you\n\n
+
+    Wish this had never happened\n\n
+    Whenever I think of you\n\n
+
+    I know you will not read this\n\n
+    If did; wont know its me\n\n
+
+    I wanted to say I miss you\n\n
+    Whenever I think of you\n\n\n
+
+
+        </string>
+
+
+        <string name="whenufall">
+
+    When You fall in Love with someone\n\n
+    Do not think just start enjoying it\n\n
+    Because after some time\n\n
+    You will not be in position to enjoy anything\n\n\n
+
+
+        </string>
+
+
+        <string name="lovescomittment">
+
+    I can say i love you in so many ways\n\n
+    But none is clearer than committing my days\n\n
+    To the one who is dearest and closest to my heart\n\n
+    On this day i promise you that we will never part\n\n
+
+
+        </string>
+
+
+        <string name="untillwemeetagain">
+
+    Those special memories of you\n\n
+    will always bring a smile\n\n
+    if only I could have you back\n\n
+    for just a little while\n\n
+    Then we could sit and talk again\n\n
+    just like we use to do\n\n
+    you always meant so very much\n\n
+    and always will do too\n\n
+    The fact that you are no longer there\n\n
+    will always cause me pain\n\n
+    but you are forever in my heart\n\n
+    until we meet again\n\n
+
+        </string>
+
+
+        <string name="myonlylove">
+    Just to say I love you\n\n
+    never seems enough\n\n
+    I have said it so many times\n\n
+    I am afraid you won’t understand\n\n
+    what I really mean when I say it.\n\n
+    How can so much feeling\n\n
+    so much adoration possibly fit into\n\n
+    those three little words.\n\n
+    But until i find some other\n\n
+    way of saying what i feel, then\n\n
+    “I Love You” will have to do.\n\n
+    So no matter how many times I say it,\n\n
+    never take it lightly, for you are my life,\n\n
+    and my only love.\n\n
+    I love you now more\n\n
+    than ever before\n\n
+
+        </string>
+
+
+        <string name="aspecialworld">
+
+    A special world for you and me\n\n
+    A special bond one cannot see\n\n
+    It wraps us up in its cocoon\n\n
+    And holds us fiercely in its womb.\n\n
+
+    Its fingers spread like fine spun gold\n\n
+    Gently nestling us to the fold\n\n
+    Like silken thread it holds us fast\n\n
+    Bonds like this are meant to last.\n\n
+
+    And though at times a thread may break\n\n
+    A new one forms in its wake\n\n
+    To bind us closer and keep us strong\n\n
+    In a special world, where we belong.\n\n
+
+
+        </string>
+
+
+        <string name="ifellinlovewithsomeone">
+    I see the world through my eyes\n\n
+    As a vicious cycle of pain and lies\n\n
+    You will never see what is inside of me\n\n
+    So back away and leave me be\n\n
+    I am sorry to say\n\n
+    But stay away\n\n
+    I do not want to hurt you\n\n
+    Even though it may seem cruel\n\n
+    You are there in everything I do\n\n
+    That is only because I fell in love with you\n\n
+
+        </string>
+
+
+        <string name="youandme">
+    The Way You Make Me Feel Every Day,\n\n
+    Is More Then Any Words Can Say.\n\n
+    The Happiness You Bring To Me,\n\n
+    Is More Then Can Ever Be Seen.\n\n
+    Happiness Comes And Happiness Goes,\n\n
+    But My Love For You Just Grows And Grows.\n\n
+    I Get A Twinkle In My Eye\n\n
+    When I See The Most Beautiful Person,\n\n
+    Is Cause Of You, But Only I Know Why,\n\n
+    The Reason Is That I Love You,\n\n
+    Because Without You I Would Not Live\n\n
+
+
+        </string>
+
+
+
+        <string name="lonelyinthecrowd">
+    So many people around\n\n
+    still feeling lonely in the crowd\n\n
+    Without you I feel so alone\n\n
+    And all my happiness is gone\n\n
+    With you I feel complete\n\n
+    As you are in my every heart beat\n\n
+    Come soon, be with me\n\n
+    I am not what I used to be\n\n
+    I am missing you a lot\n\n
+    You are everything I got\n\n
+    I love You\n\n
+    I miss You\n\n
+        </string>
+
+
+        <string name="notforme">
+    sun shines but not for me\n\n
+    moon lights but not for me\n\n
+    flower blooms but not for me\n\n
+    loneliness swarms just for me\n\n
+
+        </string>
+
+
+
+        <string name="doesanyonecare">
+    Does anyone care?\n\n
+    Do they even want to know?\n\n
+    I do not think they do\n\n
+    Is there anyone out there?\n\n
+    Someone whose shoulder I can cry on?\n\n
+    I do not think there is\n\n
+    Is there any hope for me?\n\n
+    Is there any sort of light?\n\n
+    I do not think it exists\n\n
+    Does anyone care?\n\n
+    Is there anyone out there?\n\n
+    I do not even know\n\n
+    Can anyone help me?\n\n
+    Anyone at all?\n\n
+    I have lost all hope\n\n
+        </string>
+
+
+
+        <string name="tenreasonstome">
+    I m going to the corner\n\n
+    Because one I m a loner.\n\n
+    Two, people scare me\n\n
+    to the point I want to flee.\n\n
+    Three, I hate myself\n\n
+    That s why there are suicide notes on the shelf.\n\n
+    Four, I want to hide\n\n
+    Just like I wish to fly.\n\n
+    Five, I already heard too many goodbye s\n\n
+    And how I wish those were lies.\n\n
+    Six, my heart hurts\n\n
+    I swear I will burst.\n\n
+    Seven, corners are dark\n\n
+    Light burns and leaves a mark\n\n
+    Eight, I do not like the light\n\n
+    Because it does not feel right.\n\n
+    Nine, I know I will go insane\n\n
+    Because I know peoples sacrifices were in vein.\n\n
+    Ten, I feel others dislike towards me\n\n
+    To the point where dead is what I want to be.\n\n
+
+        </string>
+
+
+
+        <string name="untillwemeetagainn">
+    Those special memories of you\n\n
+    will always bring a smile\n\n
+    if only I could have you back\n\n
+    for just a little while\n\n
+    Then we could sit and talk again\n\n
+    just like we use to do\n\n
+    you always meant so very much\n\n
+    and always will do too\n\n
+    The fact that you are no longer there\n\n
+    will always cause me pain\n\n
+    but you are forever in my heart\n\n
+    until we meet again\n\n
+
+        </string>
+    </resources>

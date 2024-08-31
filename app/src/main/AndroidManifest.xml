@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ansab.englishpoetry">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID"/>
+
+    <application
+        android:hardwareAccelerated="true"
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".sad_poetry_5"
+            android:parentActivityName=".sad_poetry_card_view"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity android:name=".sad_poetry_4"
+            android:parentActivityName=".sad_poetry_card_view"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".sad_poetry_3"
+            android:parentActivityName=".sad_poetry_card_view"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".sad_poetry_2"
+            android:parentActivityName=".sad_poetry_card_view"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".sad_poetry_1"
+            android:parentActivityName=".sad_poetry_card_view"
+            android:screenOrientation="portrait"
+            />
+
+        <activity
+            android:name=".sad_poetry_card_view"
+            android:parentActivityName=".Main2Activity"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".love_poetry_6"
+            android:parentActivityName=".love_poetry_card_view"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".love_poetry_5"
+            android:parentActivityName=".love_poetry_card_view"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".love_poetry_4"
+            android:parentActivityName=".love_poetry_card_view"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".love_poetry_3"
+            android:parentActivityName=".love_poetry_card_view"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".love_poetry_2"
+            android:parentActivityName=".love_poetry_card_view"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".love_poetry_1"
+            android:parentActivityName=".love_poetry_card_view"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".love_poetry_card_view"
+            android:parentActivityName=".Main2Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Main2Activity"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".when_u_fall_in_love_with_someone_15_Activity"
+            android:parentActivityName=".card_view_Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".whenever_14_Activity"
+            android:parentActivityName=".card_view_Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".i_m_no_more_here_13_Activity"
+            android:parentActivityName=".card_view_Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".feeling_lost_12_Activity"
+            android:parentActivityName=".card_view_Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".are_u_okay_10_Activity"
+            android:parentActivityName=".card_view_Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".my_daughter_10_Activity"
+            android:parentActivityName=".card_view_Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".i_feel_each_time_9_Activity"
+            android:parentActivityName=".card_view_Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".im_my_life_8_Activity"
+            android:parentActivityName=".card_view_Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".the_beauty_of_life_7_Activity"
+            android:parentActivityName=".card_view_Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".my_dear_women_6_Activity"
+            android:parentActivityName=".card_view_Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".peace_5_Activity"
+            android:parentActivityName=".card_view_Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".deeds_4_Activity"
+            android:parentActivityName=".card_view_Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".my_english_teacher_3_Activity"
+            android:parentActivityName=".card_view_Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".world_2_Activity"
+            android:parentActivityName=".card_view_Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".sometimes_1_Activity"
+            android:parentActivityName=".card_view_Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".card_view_Activity"
+            android:parentActivityName=".Main2Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+
+
+    </application>
+
+</manifest>

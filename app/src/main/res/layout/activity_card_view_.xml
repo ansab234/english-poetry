@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".card_view_Activity">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+       android:layout_margin="12dp"
+        >
+
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            app:cardBackgroundColor="#0d47a1"
+            app:cardCornerRadius="20dp"
+            android:id="@+id/card1"
+            android:onClick="sometimes"
+            >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sometimes"
+        android:textSize="30dp"
+        android:textStyle="normal"
+        android:textAlignment="center"
+        android:layout_gravity="center"
+        android:textColor="#fff"
+
+/>
+    </androidx.cardview.widget.CardView>
+
+
+
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            app:cardBackgroundColor="#0d47a1"
+            android:id="@+id/card2"
+            android:onClick="world"
+            android:layout_marginTop="8dp"
+            android:layout_below="@+id/card1"
+            app:cardCornerRadius="20dp"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="World"
+                android:textSize="30dp"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                android:textStyle="normal"
+                android:textColor="#fff"
+
+
+                />
+        </androidx.cardview.widget.CardView>
+
+
+
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            app:cardBackgroundColor="#0d47a1"
+            android:onClick="the_english_teacher"
+            android:layout_marginTop="8dp"
+            android:layout_below="@+id/card2"
+            app:cardCornerRadius="20dp"
+            android:id="@+id/card3"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="My English Teacher"
+                android:textSize="30dp"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                android:textStyle="normal"
+                android:textColor="#fff"
+
+
+                />
+        </androidx.cardview.widget.CardView>
+
+
+
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            app:cardBackgroundColor="#0d47a1"
+            app:cardCornerRadius="20dp"
+           android:onClick="deeds"
+            android:layout_marginTop="8dp"
+            android:layout_below="@+id/card3"
+            android:id="@+id/card4">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Deeds"
+                android:textSize="30dp"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                android:textStyle="normal"
+                android:textColor="#fff"
+
+
+                />
+        </androidx.cardview.widget.CardView>
+
+
+
+
+
+
+
+
+
+
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            app:cardBackgroundColor="#0d47a1"
+            app:cardCornerRadius="20dp"
+           android:onClick="peace"
+            android:layout_marginTop="8dp"
+            android:layout_below="@+id/card4"
+            android:id="@+id/card5">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Peace"
+                android:textSize="30dp"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                android:textStyle="normal"
+                android:textColor="#fff"
+
+
+                />
+        </androidx.cardview.widget.CardView>
+
+
+
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            app:cardBackgroundColor="#0d47a1"
+            android:onClick="mydearwoman"
+            android:layout_marginTop="8dp"
+            android:layout_below="@+id/card5"
+            app:cardCornerRadius="20dp"
+            android:id="@+id/card6"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="My Dear Woman"
+                android:textSize="30dp"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                android:textStyle="normal"
+                android:textColor="#fff"
+
+
+                />
+        </androidx.cardview.widget.CardView>
+
+
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            app:cardBackgroundColor="#0d47a1"
+            app:cardCornerRadius="20dp"
+            android:id="@+id/card7"
+           android:onClick="the_beauty_of_life"
+            android:layout_marginTop="8dp"
+            android:layout_below="@+id/card6"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="The Beauty of Life"
+                android:textSize="30dp"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                android:textStyle="normal"
+                android:textColor="#fff"
+
+
+                />
+        </androidx.cardview.widget.CardView>
+
+
+
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            app:cardBackgroundColor="#0d47a1"
+            app:cardCornerRadius="20dp"
+            android:id="@+id/card8"
+            android:onClick="in_my_life"
+            android:layout_marginTop="8dp"
+            android:layout_below="@+id/card7"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="In My Life"
+                android:textSize="30dp"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                android:textStyle="normal"
+                android:textColor="#fff"
+
+
+                />
+        </androidx.cardview.widget.CardView>
+
+
+
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            app:cardBackgroundColor="#0d47a1"
+            app:cardCornerRadius="20dp"
+            android:onClick="ifeeleachtime"
+            android:layout_marginTop="8dp"
+            android:layout_below="@+id/card8"
+            android:id="@+id/card9"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="I Feel Each Time"
+                android:textSize="30dp"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                android:textStyle="normal"
+                android:textColor="#fff"
+
+
+                />
+        </androidx.cardview.widget.CardView>
+
+
+
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            app:cardBackgroundColor="#0d47a1"
+           android:onClick="mydaughter"
+            android:layout_marginTop="8dp"
+            android:layout_below="@+id/card9"
+            app:cardCornerRadius="20dp"
+            android:layout_marginBottom="10dp"
+            android:id="@+id/card10"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="My Daughter"
+                android:textSize="30dp"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                android:textStyle="normal"
+                android:textColor="#fff"
+
+
+                />
+        </androidx.cardview.widget.CardView>
+
+
+
+
+
+
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            app:cardBackgroundColor="#0d47a1"
+            android:onClick="areuokay"
+            android:layout_marginTop="8dp"
+            android:layout_below="@+id/card10"
+            app:cardCornerRadius="20dp"
+            android:layout_marginBottom="10dp"
+            android:id="@+id/card11"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Are You Okay?"
+                android:textSize="30dp"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                android:textStyle="normal"
+                android:textColor="#fff"
+
+
+                />
+        </androidx.cardview.widget.CardView>
+
+
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            app:cardBackgroundColor="#0d47a1"
+            android:onClick="feelinglost"
+            android:layout_marginTop="8dp"
+            android:layout_below="@+id/card11"
+            app:cardCornerRadius="20dp"
+            android:layout_marginBottom="10dp"
+            android:id="@+id/card12"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Feeling Lost"
+                android:textSize="30dp"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                android:textStyle="normal"
+                android:textColor="#fff"
+
+
+                />
+        </androidx.cardview.widget.CardView>
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            app:cardBackgroundColor="#0d47a1"
+            android:onClick="imnomorehere"
+            android:layout_marginTop="8dp"
+            android:layout_below="@+id/card12"
+            app:cardCornerRadius="20dp"
+            android:layout_marginBottom="10dp"
+            android:id="@+id/card13"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="I am no more here"
+                android:textSize="30dp"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                android:textStyle="normal"
+                android:textColor="#fff"
+
+
+                />
+        </androidx.cardview.widget.CardView>
+
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            app:cardBackgroundColor="#0d47a1"
+            android:onClick="whenever"
+            android:layout_marginTop="8dp"
+            android:layout_below="@+id/card13"
+            app:cardCornerRadius="20dp"
+            android:layout_marginBottom="10dp"
+            android:id="@+id/card14"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Whenever"
+                android:textSize="30dp"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                android:textStyle="normal"
+                android:textColor="#fff"
+
+
+                />
+        </androidx.cardview.widget.CardView>
+
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            app:cardBackgroundColor="#0d47a1"
+            android:onClick="whenever_u_fall_in_love"
+            android:layout_marginTop="8dp"
+            android:layout_below="@+id/card14"
+            app:cardCornerRadius="20dp"
+            android:layout_marginBottom="10dp"
+            android:id="@+id/card15"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="When You fall in Love with someone"
+                android:textSize="30dp"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                android:textStyle="normal"
+                android:textColor="#fff"
+
+
+                />
+        </androidx.cardview.widget.CardView>
+
+
+    </RelativeLayout>
+
+</ScrollView>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".sad_poetry_card_view">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:layout_margin="12dp"
+        >
+
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            app:cardBackgroundColor="#0d47a1"
+            app:cardCornerRadius="20dp"
+            android:onClick="lonelyinthecrowd"
+            android:id="@+id/card1"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Lonely In The Crowd"
+                android:textSize="30dp"
+                android:textStyle="normal"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                android:textColor="#fff"
+
+                />
+        </androidx.cardview.widget.CardView>
+
+
+
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            app:cardBackgroundColor="#0d47a1"
+            android:id="@+id/card2"
+            android:layout_marginTop="8dp"
+            android:onClick="notforme"
+            android:layout_below="@+id/card1"
+            app:cardCornerRadius="20dp"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Not For Me"
+                android:textSize="30dp"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                android:textStyle="normal"
+                android:textColor="#fff"
+
+
+                />
+        </androidx.cardview.widget.CardView>
+
+
+
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            app:cardBackgroundColor="#0d47a1"
+            android:id="@+id/card3"
+            android:layout_marginTop="8dp"
+            android:onClick="doesanyonecare"
+            android:layout_below="@+id/card2"
+            app:cardCornerRadius="20dp"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Does anyone care?"
+                android:textSize="30dp"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                android:textStyle="normal"
+                android:textColor="#fff"
+
+
+                />
+        </androidx.cardview.widget.CardView>
+
+
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            app:cardBackgroundColor="#0d47a1"
+            android:id="@+id/card4"
+            android:layout_marginTop="8dp"
+            android:onClick="tenreasonstome"
+            android:layout_below="@+id/card3"
+            app:cardCornerRadius="20dp"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" Ten Reasons To Me"
+                android:textSize="30dp"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                android:textStyle="normal"
+                android:textColor="#fff"
+
+
+                />
+        </androidx.cardview.widget.CardView>
+
+
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            app:cardBackgroundColor="#0d47a1"
+            android:id="@+id/card5"
+            android:layout_marginTop="8dp"
+            android:onClick="untilwemeetagainn"
+            android:layout_below="@+id/card4"
+            app:cardCornerRadius="20dp"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Until We Meet Again"
+                android:textSize="30dp"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                android:textStyle="normal"
+                android:textColor="#fff"
+
+
+                />
+        </androidx.cardview.widget.CardView>
+
+
+    </RelativeLayout>
+
+
+
+</ScrollView>

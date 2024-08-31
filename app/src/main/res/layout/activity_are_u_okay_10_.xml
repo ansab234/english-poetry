@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#D8D8C8"
+    tools:context=".are_u_okay_10_Activity">
+
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Are You Okay?"
+            android:textSize="50dp"
+            android:gravity="center"
+            android:textColor="#221"
+            android:layout_centerHorizontal="true"
+            android:textStyle="bold"
+            android:id="@+id/my_english_teacher"
+            android:layout_marginTop="10dp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Poet: Muniza Wasi"
+            android:textColor="#221"
+            android:layout_below="@+id/my_english_teacher"
+            android:layout_centerHorizontal="true"
+            android:textSize="15dp"
+            android:id="@+id/poet_name"
+            />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/areuokay"
+            android:textSize="20dp"
+            android:layout_below="@+id/poet_name"
+            android:padding="30dp"
+            android:layout_margin="5dp"
+            android:textColor="#221"
+            android:gravity="center"
+            android:id="@+id/text"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_centerInParent="true"
+            />
+
+    </RelativeLayout>
+</ScrollView>
+
+
+
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:id="@+id/toolbar"
+        android:background="#D8D8C8"
+        android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        android:layout_alignParentBottom="true"
+        >
+
+        <LinearLayout
+            android:id="@+id/banner_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:orientation="vertical"
+            app:layout_constraintBottom_toBottomOf="parent"
+            />
+    </androidx.appcompat.widget.Toolbar>
+
+
+
+
+</RelativeLayout>

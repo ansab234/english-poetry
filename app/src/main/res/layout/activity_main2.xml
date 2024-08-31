@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="15dp"
+    android:layout_gravity="center"
+    tools:context=".Main2Activity">
+
+    <LinearLayout
+        android:id="@+id/banner_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        />
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="50dp"
+        app:cardBackgroundColor="#0d47a1"
+        app:cardCornerRadius="25dp"
+        android:onClick="love_poetry"
+        android:layout_marginBottom="5dp"
+        android:id="@+id/card1"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Love Poetry"
+            android:textSize="20dp"
+            android:textAlignment="center"
+            android:layout_gravity="center"
+            android:textStyle="normal"
+            android:textColor="#fff"
+
+            />
+    </androidx.cardview.widget.CardView>
+
+
+
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        app:cardBackgroundColor="#0d47a1"
+        android:layout_marginTop="4dp"
+        android:onClick="sad_poetry"
+        android:layout_centerHorizontal="true"
+        android:layout_centerInParent="true"
+        android:layout_below="@+id/card1"
+        app:cardCornerRadius="25dp"
+        android:layout_marginBottom="5dp"
+        android:id="@+id/card2"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sad Poetry"
+            android:textSize="20dp"
+            android:textAlignment="center"
+            android:layout_gravity="center"
+            android:textStyle="normal"
+            android:textColor="#fff"
+
+
+            />
+    </androidx.cardview.widget.CardView>
+
+
+    <androidx.cardview.widget.CardView
+
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        app:cardBackgroundColor="#0d47a1"
+        android:layout_marginTop="4dp"
+        android:layout_below="@+id/card2"
+        app:cardCornerRadius="25dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerInParent="true"
+        android:onClick="mix_poetry"
+        android:layout_marginBottom="5dp"
+        android:id="@+id/card3"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mix Poetry"
+            android:textSize="20dp"
+            android:textAlignment="center"
+            android:layout_gravity="center"
+            android:textStyle="normal"
+            android:textColor="#fff"
+
+
+            />
+
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>
+
+
+
